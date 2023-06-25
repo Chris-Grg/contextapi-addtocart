@@ -1,3 +1,5 @@
+![image](https://github.com/Chris-Grg/contextapi-addtocart/assets/121335744/78fee68e-214a-415d-bd89-de834559d4d0)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
